@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		A44C815C2D88C7C300CE4AB7 /* Untitled.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44C815B2D88C7C000CE4AB7 /* Untitled.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
-		A44C81412D88C72000CE4AB7 /* GymAppIOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GymAppIOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A425EDDE2D88CEFA007356BA /* GymAppIOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GymAppIOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A44C815B2D88C7C000CE4AB7 /* Untitled.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Untitled.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +38,9 @@
 			isa = PBXGroup;
 			children = (
 				A44C81432D88C72000CE4AB7 /* GymAppIOS */,
-				A44C81422D88C72000CE4AB7 /* Products */,
+				A44C815B2D88C7C000CE4AB7 /* Untitled.swift */,
+				A425EDDE2D88CEFA007356BA /* GymAppIOS.app */,
 			);
-			sourceTree = "<group>";
-		};
-		A44C81422D88C72000CE4AB7 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				A44C81412D88C72000CE4AB7 /* GymAppIOS.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -67,7 +65,7 @@
 			packageProductDependencies = (
 			);
 			productName = GymAppIOS;
-			productReference = A44C81412D88C72000CE4AB7 /* GymAppIOS.app */;
+			productReference = A425EDDE2D88CEFA007356BA /* GymAppIOS.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -95,7 +93,7 @@
 			mainGroup = A44C81382D88C72000CE4AB7;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = A44C81422D88C72000CE4AB7 /* Products */;
+			productRefGroup = A44C81382D88C72000CE4AB7;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -119,6 +117,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A44C815C2D88C7C300CE4AB7 /* Untitled.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
