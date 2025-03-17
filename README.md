@@ -53,7 +53,7 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE par
 
 Este README fornece uma visão geral do projeto GymAppiOS. Para mais detalhes, explore os arquivos do projeto e a documentação do código.
 
-##ScreenShots
+## ScreenShots
 
 ![image](https://github.com/user-attachments/assets/586ba978-1e97-47a1-ac69-a7adef899aa4)
 ![image](https://github.com/user-attachments/assets/d8695b34-ab3e-4580-abe2-c590bc9f770a)
