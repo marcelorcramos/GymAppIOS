@@ -2,6 +2,8 @@
 
 GymAppiOS é um aplicativo desenvolvido em Swift para ajudar usuários a gerenciar seus treinos, exercícios e progresso físico. O aplicativo oferece uma variedade de funcionalidades, incluindo a adição de exercícios, acompanhamento de estatísticas, visualização de histórico de treinos e monitoramento de progresso.
 
+Tenha mais controle de suas atividades, tempo de exercícios e muito mais!
+
 ## Funcionalidades Principais
 
 - **Adicionar Exercícios**: Os usuários podem adicionar novos exercícios, especificando detalhes como nome do exercício, máquina utilizada, número de repetições, tempo e grupo muscular trabalhado.
