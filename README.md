@@ -18,7 +18,7 @@ Tenha mais controle de suas atividades, tempo de exercícios e muito mais!
 
 - **Progresso**: O aplicativo permite que os usuários acompanhem seu progresso ao longo do tempo, com métricas e gráficos que mostram a evolução.
 
-## Estrutura do Projeto
+## Estrutura do Projeto  
 
 O projeto está organizado da seguinte forma:
 
